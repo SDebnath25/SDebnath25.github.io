@@ -1,4 +1,4 @@
-👋 Hi, I'm Sutoma
+👋 Hi, I'm Sutoma.
 
 🚀 Web & App Developer passionate about building modern, responsive, and user-friendly digital experiences. I enjoy turning ideas into functional and visually appealing applications that solve real-world problems.
 
